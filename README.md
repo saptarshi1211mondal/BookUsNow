@@ -2,6 +2,9 @@
 
 This project is a website designed to showcase upcoming and recommended events. It utilizes APIs to fetch event data and presents it in a user-friendly and responsive manner. The design focuses on clean aesthetics and optimal performance to provide a seamless experience for users across desktop and mobile devices.
 
+* [Desktop Video](https://drive.google.com/file/d/1MyRvMyiM9f4VE0kAziDlUIGARb0jFoL4/view?usp=sharing)
+* [Mobile Video]() 
+
 # Setup and Local Run Instructions
 
 To run this project locally, follow these steps:
