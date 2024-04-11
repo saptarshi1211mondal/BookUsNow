@@ -179,7 +179,7 @@ i{
 
 .container-banner {
     position: relative;
-    background-image: url('./images/Banner.svg');
+    background-image: url('./Banner.svg');
     background-size: cover; 
     background-repeat: no-repeat;
     background-position: center;
